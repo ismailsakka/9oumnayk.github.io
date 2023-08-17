@@ -1,2 +1,12 @@
 # 9oumnayk.github.io
 Kkkkkkkkkk
+<!DOCTYPE html >
+<html>
+<head>
+    <meta charset="utf=8">
+    <title>ismail amk</title>
+</head>
+<body>
+    <p>n7bk wa7ch 9oum nayk trena 
+</body>
+</html>
